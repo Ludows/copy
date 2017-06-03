@@ -1,0 +1,8 @@
+.copy, .copy:hover, .copy:focus {
+          background: #0089ff;
+          padding: 10px 15px;
+          color: aliceblue;
+          position: absolute;
+          top: 0;
+          right: 0;
+    }
